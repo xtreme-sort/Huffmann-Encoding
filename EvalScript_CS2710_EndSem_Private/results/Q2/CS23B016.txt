@@ -1,0 +1,14 @@
+Evaluating Q2 for CS23B016
+Test test1: PASS
+Test test10: FAIL
+Test test11: FAIL
+Test test12: FAIL
+Test test2: FAIL
+Test test3: PASS
+Test test4: PASS
+Test test5: PASS
+Test test6: PASS
+Test test7: FAIL
+Test test8: PASS
+Test test9: FAIL
+Total Score for Q2: 6/12
